@@ -11,9 +11,19 @@ Collection of useful tools found on the net
   Like grep but can use the abstract syntax tree
 - [ruff](https://github.com/astral-sh/ruff)  
   Python linter and code formatter
-- [hgrep](https://github.com/rhysd/hgrep)  
-  Grep with human-friendly search results 
 
+
+### Core tools 🔧
+
+- [hgrep](https://github.com/rhysd/hgrep)  
+  Grep with human-friendly search results
+- [atuin](https://github.com/atuinsh/atuin)  
+  Shell history manager with fzf and sync across machines
+- [zoxide](https://github.com/ajeetdsouza/zoxide)  
+  Smarter `cd` command with autojump features
+- [lsd](https://github.com/lsd-rs/lsd)  
+  Modern and customizable `ls` replacement
+  
 ## Frameworks/libs 📚
 
 - [inquire](https://github.com/mikaelmello/inquire)  
