@@ -7,22 +7,21 @@ Collection of useful tools found on the net
 
 ## Tools 🔧
 
-- [ast-grep](https://github.com/ast-grep/ast-grep)  
-  Like grep but can use the abstract syntax tree
 - [ruff](https://github.com/astral-sh/ruff)  
   Python linter and code formatter
 
-
 ### Core tools 🔧
 
-- [hgrep](https://github.com/rhysd/hgrep)  
-  Grep with human-friendly search results
+- [ast-grep](https://github.com/ast-grep/ast-grep)  
+  Like grep but can use the abstract syntax tree
 - [atuin](https://github.com/atuinsh/atuin)  
   Shell history manager with fzf and sync across machines
-- [zoxide](https://github.com/ajeetdsouza/zoxide)  
-  Smarter `cd` command with autojump features
+- [hgrep](https://github.com/rhysd/hgrep)  
+  Grep with human-friendly search results
 - [lsd](https://github.com/lsd-rs/lsd)  
   Modern and customizable `ls` replacement
+- [zoxide](https://github.com/ajeetdsouza/zoxide)  
+  Smarter `cd` command with autojump features
   
 ## Frameworks/libs 📚
 
