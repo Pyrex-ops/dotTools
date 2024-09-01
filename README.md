@@ -20,6 +20,8 @@ Collection of useful tools found on the net
   Grep with human-friendly search results
 - [lsd](https://github.com/lsd-rs/lsd)  
   Modern and customizable `ls` replacement
+- [qrrs](https://github.com/Lenivaya/qrrs)
+  CLI QR code generator and reader written in rust 
 - [zoxide](https://github.com/ajeetdsouza/zoxide)  
   Smarter `cd` command with autojump features
   
